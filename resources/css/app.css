@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dataTables_paginate a {
+    padding: 6px 9px !important;
+    background: #ddd !important;
+    border-color: #ddd !important;
+}
+
+#example_filter {
+    padding-bottom: 1rem !important;
+    padding-top: 1rem !important;
+}
